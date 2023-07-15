@@ -48,5 +48,5 @@ async function sendPostRequest(url)
   }
 }
 
-const url = `przykladowy_link.pl;
+const url = `przykladowy_link.pl`;
 sendPostRequest(url);
